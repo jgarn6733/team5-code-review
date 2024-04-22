@@ -1,0 +1,5 @@
+tailwagger2;John Carter;AZ;[purrfectpals, barkbuddy3]
+purrfectpals;Sarah Bennett;CO;[tailwagger2, snugglepup9]
+barkbuddy3;Michael Turner;GA;[tailwagger2, featheredfriends]
+featheredfriends;Emily Clark;OR;[barkbuddy3, snugglepup9]
+snugglepup9;Laura Murphy;WA;[purrfectpals, featheredfriends]

@@ -1,0 +1,5 @@
+clawclique4;Samantha Reed;CA;[fuzzyfanatic5, scalestales6]
+fuzzyfanatic5;Liam Ford;FL;[clawclique4]
+scalestales6;Olivia Grant;MI;[clawclique4, whiskerwielder7]
+whiskerwielder7;Noah Clarke;NJ;[scalestales6, caninecompanion8]
+caninecompanion8;Isabella Morse;TX;[whiskerwielder7]

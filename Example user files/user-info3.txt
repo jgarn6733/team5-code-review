@@ -1,0 +1,5 @@
+skywatcher12;Alice Green;NV;[green_thumb13, tech_tinker14]
+green_thumb13;Bob White;MT;[skywatcher12]
+tech_tinker14;Clara Blue;UT;[skywatcher12, book_bird15]
+book_bird15;Derek Black;NY;[tech_tinker14, star_sailor16]
+star_sailor16;Eva Gray;TX;[book_bird15]
